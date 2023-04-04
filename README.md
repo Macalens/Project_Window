@@ -5,19 +5,3 @@
 - Работа с базой данных(база фейковая)
 
 Вёрстка позаимствована)
-
-
-
-# Interface
-<p align="center"><img src="https://i.ibb.co/rdcZDWH/preview-project.gif" alt="ReviewProject"/></p>
-<div align="right">
-   <a href="https://www.javascript.com/">    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.w3.org/Style/CSS/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://html.spec.whatwg.org/">    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  </a>
-</div> 

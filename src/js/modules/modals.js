@@ -52,7 +52,7 @@ const modals = () => {
         setTimeout(function () {
             document.querySelector(selector).style.display = "block";
             document.body.style.overflow = "hidden";
-        }, time)
+        }, time);
     }
 
     function calcScroll() {
